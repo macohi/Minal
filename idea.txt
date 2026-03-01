@@ -1,0 +1,5 @@
+THEME: Borders
+
+Game name : Minal / Mirror Line Goal
+
+Two tiny characters mirror each other across a line, and you move them to reach two goals at once
