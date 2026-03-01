@@ -10,6 +10,7 @@ class PlayState extends FlxState
 	override public function create()
 	{
 		super.create();
+		
 		players = new FlxTypedSpriteGroup<Player>();
 		add(players);
 

@@ -8,6 +8,7 @@ class Player extends PixelSprite
 		super(x, y);
 
 		loadGraphic('assets/images/player.png');
+		
 		if (main)
 			color = FlxColor.RED;
 		if (!main)
